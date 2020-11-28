@@ -1,7 +1,7 @@
 # LearningHTML.github.io
 A website to learn about HTML with inline CSS
 
-Live Website URL:
+Live Website URL:https://kevindeng0304.github.io/LearningHTML.github.io/
 
 Progressions
 - Project Folder Structure
